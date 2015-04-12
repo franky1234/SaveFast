@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:minHeight="?android:listPreferredItemHeight"
+    android:textSize="23dp"
+    android:textStyle="bold"
+    android:id="@+id/result_list"
+    android:layout_weight="2"
+    >
+
+</TextView>
